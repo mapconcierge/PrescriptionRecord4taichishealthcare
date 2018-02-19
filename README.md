@@ -1,0 +1,2 @@
+# PrescriptionRecord4taichi
+古橋大地個人のおくすり手帳（とくに問題がなければ公開設定としておく）
